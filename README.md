@@ -2,16 +2,17 @@
 
 # Project: Automatic-setup-of-Windows
 
-<br />
-
-![Screenshot.png)](Automatic-setup-of-Windows/Documents/Screenshot.png)
-
-<br />
 
 # About 
 
 **Automatic-setup-of-Windows** This project is a PowerShell script for automatic Windows configuration after the operating system installation. The script allows to significantly reduce the time for system configuration, providing automatic installation of applications, changing parameters, setting up the environment and other tasks required by the user.
 
+
+<br />
+
+![Screenshot.png)](Automatic-setup-of-Windows/Documents/Screenshot.png)
+
+<br />
 
 ## Quick start
 
