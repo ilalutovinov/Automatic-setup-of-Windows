@@ -7,7 +7,7 @@
 
 # Project: Automatic-setup-of-Windows
 
-```
+
 ## Quick start
 
 > 👉 Download the code  
