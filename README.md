@@ -1,2 +1,6 @@
-# Automatic-setup-of-Windows
-This is a PowerShell script that automatically configures the system to work!
+<h1 align="center">Welcome to the project Pearl OS! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<br />
+
+![Cover.png)](Documents/Screenshot.png)
+
+<br />
